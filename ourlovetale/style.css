@@ -15,10 +15,13 @@ h1 {
 .top {
 	text-align: center;
 	margin-bottom: 1em;
+	margin-left: 1em;
+	margin-right: 1em;
 }
 
 .top p {
 	font: 40px sans-serif;
+	text-align: left;
 }
 
 .card {
