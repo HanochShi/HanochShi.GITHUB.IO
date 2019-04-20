@@ -13,9 +13,13 @@ body {
 	margin-bottom: 1em;
 }
 
+.top p {
+	font: 30px sans-serif;
+}
+
 .card {
 	margin: 1px;
-	height: 11em;
+	height: 16em;
 }
 
 div .card:active {
@@ -24,14 +28,14 @@ div .card:active {
 
 .card p {
 	float: left;
-	font: bold 17px sans-serif;
+	font: bold 30px sans-serif;
 	margin-left: 1em;
 	margin-top: 1em;
 }
 
 .card img {
 	float: right;
-	height: 10em;
+	height: 15em;
 }
 
 .line {
