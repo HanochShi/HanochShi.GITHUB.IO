@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 50px;
 }
 
 .top {
@@ -32,7 +32,7 @@ div .card:active {
 
 .card p {
 	float: left;
-	font: bold 40px sans-serif;
+	font: 40px sans-serif;
 	margin-left: 1em;
 	margin-top: 1em;
 }
