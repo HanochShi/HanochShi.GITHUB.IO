@@ -8,13 +8,17 @@ body {
 	font-family: sans-serif;
 }
 
+h1 {
+	font-size: 40px;
+}
+
 .top {
 	text-align: center;
 	margin-bottom: 1em;
 }
 
 .top p {
-	font: 30px sans-serif;
+	font: 40px sans-serif;
 }
 
 .card {
@@ -28,7 +32,7 @@ div .card:active {
 
 .card p {
 	float: left;
-	font: bold 30px sans-serif;
+	font: bold 40px sans-serif;
 	margin-left: 1em;
 	margin-top: 1em;
 }
@@ -36,6 +40,7 @@ div .card:active {
 .card img {
 	float: right;
 	height: 15em;
+	width: 15em;
 }
 
 .line {
