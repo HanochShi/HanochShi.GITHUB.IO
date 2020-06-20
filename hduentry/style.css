@@ -38,7 +38,7 @@ svg {
     height: 550px;
     text-align: left;
     font-size: 74px;
-    letter-spacing: 6px;
+    letter-spacing: 3px;
     background-color: #3598db;
     color: #fff;
 }
@@ -61,6 +61,7 @@ svg {
     padding-top: 90px;
     text-align: center;
     font-size: 66px;
+    letter-spacing: 3px;
     color: #3598db;
 }
 
@@ -102,7 +103,7 @@ svg {
     display: flex;
     justify-content: space-between;
     padding: 48px 80px;
-    font-size: 48px;
+    font-size: 40px;
 }
 
 #basic-info-card hr {
